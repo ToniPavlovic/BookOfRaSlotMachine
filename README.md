@@ -1,21 +1,21 @@
-# 📕 Book of Ra Slot Machine 🎰
+# Book of Ra Slot Machine
 
 A simple and fun slot machine game built in Java, inspired by the legendary Book of Ra.  
 Spin the reels, test your luck, and try to win with Egyptian-themed symbols like 📕, 👳‍♂️, 🗿, 🪙, and 🦅.
 
 ---
 
-## 🎮 Features
+## Features
 
-- ✅ Console-based gameplay
-- 💰 Betting system with balance tracking
-- 🎲 Randomized spin logic
-- 🤑 Payouts for 2 or 3 matching symbols
-- 🔁 Option to replay or exit after each spin
+- Console-based gameplay
+- Betting system with balance tracking
+- Randomized spin logic
+- Payouts for 2 or 3 matching symbols
+- Option to replay or exit after each spin
 
 ---
 
-## 🧠 Symbols and Payouts
+## Symbols and Payouts
 
 | Symbol | 3 Matches | 2 Matches |
 |--------|-----------|-----------|
